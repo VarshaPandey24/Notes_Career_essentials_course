@@ -1,4 +1,4 @@
-#STARTING WITH DATA PROJECTS
+# **STARTING WITH DATA PROJECTS**
 
 ##Best Practices for Data Analyst
 
@@ -9,6 +9,8 @@
 5. Provide detailed information about what are you presenting.
 6. Don't put data on-screen before diving in.
 7. Use a slide deck to keep pace.
+
+---
 
 ##Common Mistakes for New Analyst
 
