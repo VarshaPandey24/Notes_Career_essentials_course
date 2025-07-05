@@ -23,3 +23,5 @@
 7. Not asking questions out of fear.
 8. Not asking for documentation.
 9. Not analyzing existing or canned report.
+
+##Note -By default text are left aligned and numbers are right aligned.
