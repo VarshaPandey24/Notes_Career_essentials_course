@@ -25,3 +25,46 @@
 9. Not analyzing existing or canned report.
 
 ##Note -By default text are left aligned and numbers are right aligned.
+
+## Count count eerything text, numbers etc. but numerical count counts only numbers.
+
+## Always check whether your data set broken or not.
+
+1. select all using ctrl A.
+2. then zoom out.
+
+## now analyze number of rows(record)
+1. check count,numerical count
+
+## analyze duplicates
+1. use highlight cells
+
+## learning databases
+
+1. check each table,its feilds and counts
+2. check realtionship between tables
+3. check object dependencies
+4. check join types 
+
+
+## Things to strengthen
+1. Expand understanding of relational databses and query techniques.
+2. Practice critical thinking and active listening.
+
+## Importance of maintaining original data
+-it provides you the ability to just quickly start over after a mistake.
+-it will also give you the ability to return to the original data for auditing the work.
+
+## Truths
+-Statistical truth
+-data truth
+-bussiness truth
+
+
+
+
+
+
+
+
+
